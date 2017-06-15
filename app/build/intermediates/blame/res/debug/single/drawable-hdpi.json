@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\John\\Desktop\\32_esp8266\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\John\\Desktop\\32_esp8266\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\32_esp8266\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\blue_on.png",
+        "source": "C:\\Users\\John\\Desktop\\32_esp8266\\app\\src\\main\\res\\drawable-hdpi\\blue_on.png"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\32_esp8266\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\white_off.png",
+        "source": "C:\\Users\\John\\Desktop\\32_esp8266\\app\\src\\main\\res\\drawable-hdpi\\white_off.png"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\32_esp8266\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\re_connect.png",
+        "source": "C:\\Users\\John\\Desktop\\32_esp8266\\app\\src\\main\\res\\drawable-hdpi\\re_connect.png"
+    }
+]
